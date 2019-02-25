@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "716340049165",
+    "firebase_url": "https://parking-nitm.firebaseio.com",
+    "project_id": "parking-nitm",
+    "storage_bucket": "parking-nitm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716340049165:android:68ca90efee01e434",
+        "android_client_info": {
+          "package_name": "com.smartparkingnitmproject.amritrajnitm.nitmproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716340049165-t28h5cc882pvconkef8tr3b03f2hktik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8GjtI3sUlGSw7v-zNUZ8oDniOJqq6eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
